@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.819,=C:\Users\hsoon\OneDrive\المستندات\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,D:\Mohammad\Delphi\MwSt\MwSt.pas=C:\Users\hsoon\OneDrive\المستندات\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.827,D:\Mohammad\Delphi\MwSt\MwSt_Pro.dproj=C:\Users\hsoon\OneDrive\المستندات\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,D:\Mohammad\Delphi\MwSt\MwSt.dfm=C:\Users\hsoon\OneDrive\المستندات\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

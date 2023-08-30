@@ -12,3 +12,6 @@ Berechnung des Nettobetrags nach Abzug der Mehrwertsteuer 19%. Und die Ergebniss
 - Der Betrag soll ein positiver Wert sein, negative Werte werden nicht akzeptiert.
 - Das Programm nur den Komma-Dezimaltrenner, der mit FormatSettings(de-DE) konform ist.
 - Wenn das Verzeichnis nicht ausgewählt ist, wird die Datei in das Exe-Verzeichnis exportiert.
+
+# Examples
+- 'AbzugRech(100)'  will return '81'
